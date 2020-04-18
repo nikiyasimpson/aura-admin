@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site":"auradmin",
+    "site":"gdglittlerock-admin",
     "public": "dist",
     "ignore": [
       "firebase.json",
